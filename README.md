@@ -1,1 +1,1 @@
-# Store: ASP.NET Core REST API with Blazor WebAssembly Client
+# ECommerce Store: ASP.NET Core REST API with Blazor WebAssembly Client
